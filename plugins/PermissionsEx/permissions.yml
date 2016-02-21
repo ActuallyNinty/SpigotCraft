@@ -10,6 +10,7 @@ groups:
     - essentials.help
     - modifyworld.*
     - essentials.msg
+    - essentials.kit.*
     - essentials.reply
     - plots.permpack.basic
     - essentials.afk
